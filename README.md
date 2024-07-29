@@ -109,7 +109,7 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+      src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg"
       alt="photoshop"
       width="40"
       height="40"
