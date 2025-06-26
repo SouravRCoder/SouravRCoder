@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Sourav Rana</h1>
-<h3 align="center">A passionate to learn New Tech from India</h3>
+<h3 align="center">I am passionate to learn New Tech from India</h3>
 
 <p align="left">
   <img
