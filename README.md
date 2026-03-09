@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Sourav Rana</h1>
+<h1 align="center">Hi 👋, I'm Souvy</h1>
 
 
 <p align="left">
