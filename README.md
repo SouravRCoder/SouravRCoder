@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Souvy 👋
 
 <p align="left">
   <img src="https://herokuapp.com" alt="Typing SVG" />
